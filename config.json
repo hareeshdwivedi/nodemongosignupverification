@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb://localhost/node-mongo-signup-verification-api",
+    "secret": "d882b6a7-870e-40f0-aced-48abd54cb9ac19595f26-c57c-4721-87c9-bdc4576abfb9",
+    "emailFrom": "freida.kemmer10@ethereal.email",
+    "smtpOptions": {
+        "host": "[ENTER YOUR OWN SMTP OPTIONS OR CREATE FREE TEST ACCOUNT IN ONE CLICK AT https://ethereal.email/]",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
